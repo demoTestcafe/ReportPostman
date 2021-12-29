@@ -1,0 +1,1 @@
+newman run "DemoBlaze.postman_collection.json" -e "Local.postman_environment.json"
